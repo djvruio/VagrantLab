@@ -1,5 +1,5 @@
 LAB 1: Empezando Vagrant
-=================
+========================
 
 Verificando que Vagrant este instalado
 ```sh
