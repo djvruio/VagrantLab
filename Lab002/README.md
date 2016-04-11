@@ -3,7 +3,7 @@ LAB 2: APROVISIONAMIENTO CON SHELL SCRIPT
 
 ###Instalando manualmente Apache
 Paso 1: en Vagrant File
-config.vm.network "forwarded_port", guest: 80, host: 8080
+> config.vm.network "forwarded_port", guest: 80, host: 8080
 
 Una vez arrancada la VM
 ```sh
