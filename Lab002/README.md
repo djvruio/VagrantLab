@@ -20,6 +20,6 @@ $sudo ln -fs /vagrant /var/www
 $exit
 $echo "<strong> Hello Apache</strong>" > index.html
 ```
-Abrir -> [localhost]
-Tarea: Para recordar Instale vim en la VM
+*Abrir -> [localhost]
+*Tarea: Para recordar Instale vim en la VM
 [localhost]: <http://localhost:8080/>
