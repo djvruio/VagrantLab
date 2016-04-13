@@ -32,9 +32,9 @@ $vagrant destroy
 ```
 > Crear archivo demoscript.sh
 > Configurar Vagrantfile para usar demoscript.sh
-```sh
-config.vm.provision "shell", path: "demoscript.sh"
-```
+
+    config.vm.provision "shell", path: "demoscript.sh"
+
 ```sh
 $vagrant provision
 $vagrant up
