@@ -36,8 +36,9 @@ $vagrant destroy
 config.vm.provision "shell", path: "demoscript.sh"
 ```
 ```sh
-$vagrant reload --provision
+$vagrant provision
 $vagrant up
 ```
+- Tarea: Aprovisionar git
 
 [localhost]: <http://localhost:8080/>

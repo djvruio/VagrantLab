@@ -25,4 +25,4 @@ $vagrant status
 $vagrant destroy
 $vagrant status
 ```
-¡Fácil! ¿Verdad?
+¡Fácil! 
