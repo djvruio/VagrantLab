@@ -41,4 +41,6 @@ $vagrant up
 ```
 - Tarea: Aprovisionar git
 
+[ejemplo wildfly](https://github.com/Phidelux/vagrant-javaee-wildfly) como se configura
+
 [localhost]: <http://localhost:8080/>
